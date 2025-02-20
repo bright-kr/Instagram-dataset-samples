@@ -53,3 +53,5 @@ Get the full  <b>[Instagram dataset](https://brightdata.com/products/datasets/in
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
 The Bright Initiative offers access to Bright Data's [Web Scraper APIs](https://brightdata.com/products/web-scraper) to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application [here](https://brightinitiative.com).
+
+### Want to scrape Instagram yourself? Use our [Instagram Scraper](https://brightdata.com/products/web-scraper/instagram)
