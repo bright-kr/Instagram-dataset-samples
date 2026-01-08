@@ -1,4 +1,4 @@
-# instagram-dataset-samples
+# instagram 데이터셋 샘플
 
 <h2>2180명의 Instagram 코딩 인플루언서 샘플 データセット</h2>
 
