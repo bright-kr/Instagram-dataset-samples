@@ -2,7 +2,7 @@
 
 <h2>2180명의 Instagram 코딩 인플루언서 샘플 データセット</h2>
 
-![instagram dataset header](https://github.com/luminati-io/Instagram-dataset-samples/blob/main/instagram-datasets.PNG)
+![instagram dataset header](https://github.com/bright-kr/Instagram-dataset-samples/blob/main/instagram-datasets.PNG)
 
 2000명 이상의 주요 Instagram [Github](https://www.instagram.com/explore/tags/github/) 코딩 인플루언서에 대한 GitHub データセット 샘플입니다. データセット은 <b>Bright Data Collector</b>를 사용하여 추출되었습니다.
 
